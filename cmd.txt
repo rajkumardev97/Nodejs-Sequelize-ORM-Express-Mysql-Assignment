@@ -1,0 +1,8 @@
+
+sequelize db:drop
+
+sequelize db:create
+
+npx sequelize db:migrate
+
+npx sequelize db:seed:all

@@ -1,0 +1,19 @@
+//create migration for System model
+
+npx sequelize-cli model:generate --name Register --attributes name:string,email:string,role:string
+
+npx sequelize-cli model:generate --name Student --attributes name:string,email:string,status:boolean
+
+npx sequelize-cli model:generate --name Teacher --attributes name:string,email:string 
+
+
+npx sequelize-cli model:generate --name Association --attributes teacherEmail:string,StudentEmail:string,StudentName:string 
+
+
+npx sequelize-cli model:generate --name NotificationManager --attributes teacherEmail:string,StudentEmail:string,Notification:string 
+
+
+
+//to run migration
+
+npx sequelize db:migrate

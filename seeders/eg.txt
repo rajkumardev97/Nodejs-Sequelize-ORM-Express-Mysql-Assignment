@@ -1,0 +1,4 @@
+
+//create first seeder for students
+
+npx sequelize-cli seed:generate --name seed-students

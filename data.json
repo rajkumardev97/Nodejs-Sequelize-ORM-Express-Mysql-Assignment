@@ -1,0 +1,58 @@
+[
+  {
+    "name": "Alana Maldonado",
+    "type": "Indian Style",
+    "company": "LUNCHPAD",
+    "email": "alanamaldonado@lunchpad.com",
+    "phone": "+1 (917) 580-3389",
+    "address": "374 Highland Avenue, Dennard, Mississippi, 2711"
+  },
+  {
+    "name": "Sargent Mccullough",
+    "type": "Italian Style",
+    "company": "ISOPLEX",
+    "email": "sargentmccullough@isoplex.com",
+    "phone": "+1 (807) 542-2523",
+    "address": "539 Roebling Street, Templeton, Minnesota, 7651"
+  },
+  {
+    "name": "Sondra Roth",
+    "type": "Singapore Style",
+    "company": "ZILPHUR",
+    "email": "sondraroth@zilphur.com",
+    "phone": "+1 (935) 594-2957",
+    "address": "654 Croton Loop, Steinhatchee, Hawaii, 9629"
+  },
+  {
+    "name": "Leila Livingston",
+    "type": "Arab Style",
+    "company": "OPPORTECH",
+    "email": "leilalivingston@opportech.com",
+    "phone": "+1 (950) 405-3510",
+    "address": "454 Oxford Walk, Fulford, South Dakota, 5077"
+  },
+  {
+    "name": "Rachelle Frazier",
+    "type": "Indian Style",
+    "company": "CORPORANA",
+    "email": "rachellefrazier@corporana.com",
+    "phone": "+1 (855) 542-3901",
+    "address": "548 Dikeman Street, Ypsilanti, Connecticut, 6288"
+  },
+  {
+    "name": "Moses Noel",
+    "type": "Italian Style",
+    "company": "RONELON",
+    "email": "mosesnoel@ronelon.com",
+    "phone": "+1 (954) 597-2566",
+    "address": "707 Hanover Place, Ferney, Delaware, 7407"
+  },
+  {
+    "name": "Luella Miles",
+    "type": "North Indian Style",
+    "company": "ISOLOGIX",
+    "email": "luellamiles@isologix.com",
+    "phone": "+1 (947) 563-3296",
+    "address": "327 Rockaway Avenue, Takilma, Pennsylvania, 8575"
+  }
+]
